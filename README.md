@@ -1,13 +1,13 @@
 # Reach Me
 Reach Me is a simple, yet powerful plugin that allows you to display your contact information anywhere on your website.
 
-= Supported Languages =
+## Supported Languages
 * English 
 * Norwegian 
 
-== Frequently Asked Questions ==
+## Frequently Asked Questions
 
-= How to display the information =
+### How to display the information =
 
 Display anywhere you want in your template:
 

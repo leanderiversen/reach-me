@@ -1,0 +1,176 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Reach Me\n"
+"POT-Creation-Date: 2016-08-06 04:30+0200\n"
+"PO-Revision-Date: 2016-08-06 04:29+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: reach-me.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/pages/links.php:71
+msgid "Information successfully updated."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: inc/pages/links.php:79 inc/pages/support.php:12 reach-me.php:76
+msgid "Reach Me"
+msgstr ""
+
+#: inc/pages/links.php:81
+msgid "Links to social media"
+msgstr ""
+
+#: inc/pages/links.php:83
+msgid "This is where you want to enter links to your social platforms."
+msgstr ""
+
+#: inc/pages/links.php:87
+msgid "Facebook"
+msgstr ""
+
+#: inc/pages/links.php:93
+msgid "Google+"
+msgstr ""
+
+#: inc/pages/links.php:99
+msgid "Instagram"
+msgstr ""
+
+#: inc/pages/links.php:105
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/pages/links.php:111
+msgid "Snapchat"
+msgstr ""
+
+#: inc/pages/links.php:117
+msgid "Twitter"
+msgstr ""
+
+#: inc/pages/links.php:123
+msgid "VK"
+msgstr ""
+
+#: inc/pages/links.php:129
+msgid "YouTube"
+msgstr ""
+
+#: inc/pages/links.php:136
+msgid "Ways to get in touch"
+msgstr ""
+
+#: inc/pages/links.php:137
+msgid "This is where you want to enter your contact information."
+msgstr ""
+
+#: inc/pages/links.php:141
+msgid "E-mail"
+msgstr ""
+
+#: inc/pages/links.php:145
+msgid "FAX"
+msgstr ""
+
+#: inc/pages/links.php:149
+msgid "Mobile"
+msgstr ""
+
+#: inc/pages/links.php:153
+msgid "Phone"
+msgstr ""
+
+#: inc/pages/links.php:157
+msgid "Skype"
+msgstr ""
+
+#: inc/pages/links.php:162
+msgid "Where to meet"
+msgstr ""
+
+#: inc/pages/links.php:163
+msgid "This is where you want to enter where you are physically located."
+msgstr ""
+
+#: inc/pages/links.php:167
+msgid "Country"
+msgstr ""
+
+#: inc/pages/links.php:171
+msgid "State"
+msgstr ""
+
+#: inc/pages/links.php:175
+msgid "City"
+msgstr ""
+
+#: inc/pages/links.php:179
+msgid "Street"
+msgstr ""
+
+#: inc/pages/links.php:183
+msgid "Zip code"
+msgstr ""
+
+#: inc/pages/links.php:190
+msgid "Update info"
+msgstr ""
+
+#: inc/pages/support.php:13 reach-me.php:77
+msgid "How to use"
+msgstr ""
+
+#: inc/pages/support.php:15
+msgid "If you want to display the links on your website, use"
+msgstr ""
+
+#: inc/pages/support.php:15
+msgid "etc"
+msgstr ""
+
+#: inc/pages/support.php:16
+msgid "List of options:"
+msgstr ""
+
+#: inc/pages/support.php:36
+msgid "Do you need support?"
+msgstr ""
+
+#: inc/pages/support.php:37
+msgid ""
+"If you are in need of support, or if you want to make a suggestion, please "
+"visit the plugin's"
+msgstr ""
+
+#: inc/pages/support.php:37
+msgid "Wordpress page"
+msgstr ""
+
+#: reach-me.php:56
+msgid "Settings"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/leanderiversen/reach-me"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Iversen - Carpe Noctem"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/leanderiversen"
+msgstr ""

@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Reach Me\n"
+"POT-Creation-Date: 2016-08-06 04:54+0200\n"
+"PO-Revision-Date: 2016-08-06 04:54+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: reach-me.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/pages/links.php:71
+msgid "Information successfully updated."
+msgstr "Informasjonen ble oppdatert."
+
+#. Plugin Name of the plugin/theme
+#: inc/pages/links.php:79 inc/pages/support.php:12 reach-me.php:76
+msgid "Reach Me"
+msgstr "Reach Me"
+
+#: inc/pages/links.php:81
+msgid "Links to social media"
+msgstr "Linker til sosiale medier"
+
+#: inc/pages/links.php:83
+msgid "This is where you want to enter links to your social platforms."
+msgstr "Dette er hvor du ønsker å angi lenker til dine sosiale medier."
+
+#: inc/pages/links.php:87
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/pages/links.php:93
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/pages/links.php:99
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/pages/links.php:105
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/pages/links.php:111
+msgid "Snapchat"
+msgstr "Snapchat"
+
+#: inc/pages/links.php:117
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/pages/links.php:123
+msgid "VK"
+msgstr "VK"
+
+#: inc/pages/links.php:129
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/pages/links.php:136
+msgid "Ways to get in touch"
+msgstr "Måter å komme i kontakt"
+
+#: inc/pages/links.php:137
+msgid "This is where you want to enter your contact information."
+msgstr "Dette er hvor du ønsker å fylle ut kontaktinformasjonen din."
+
+#: inc/pages/links.php:141
+msgid "E-mail"
+msgstr "E-post"
+
+#: inc/pages/links.php:145
+msgid "FAX"
+msgstr "Faks"
+
+#: inc/pages/links.php:149
+msgid "Mobile"
+msgstr "Mobil"
+
+#: inc/pages/links.php:153
+msgid "Phone"
+msgstr "Telefon"
+
+#: inc/pages/links.php:157
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/pages/links.php:162
+msgid "Where to meet"
+msgstr "Hvor å møte"
+
+#: inc/pages/links.php:163
+msgid "This is where you want to enter where you are physically located."
+msgstr "Dette er hvor du ønsker å skrive hvor du fysisk lokalisert."
+
+#: inc/pages/links.php:167
+msgid "Country"
+msgstr "Land"
+
+#: inc/pages/links.php:171
+msgid "State"
+msgstr "Fylke"
+
+#: inc/pages/links.php:175
+msgid "City"
+msgstr "By"
+
+#: inc/pages/links.php:179
+msgid "Street"
+msgstr "Gate"
+
+#: inc/pages/links.php:183
+msgid "Zip code"
+msgstr "Postnummer"
+
+#: inc/pages/links.php:190
+msgid "Update info"
+msgstr "Oppdater informasjon"
+
+#: inc/pages/support.php:13 reach-me.php:77
+msgid "How to use"
+msgstr "Hvordan bruke"
+
+#: inc/pages/support.php:15
+msgid "If you want to display the links on your website, use"
+msgstr "Hvis du ønsker å vise lenkene på din nettside, bruk"
+
+#: inc/pages/support.php:15
+msgid "etc"
+msgstr "osv"
+
+#: inc/pages/support.php:16
+msgid "List of options:"
+msgstr "Liste med alternativer:"
+
+#: inc/pages/support.php:36
+msgid "Do you need support?"
+msgstr "Trenger du hjelp?"
+
+#: inc/pages/support.php:37
+msgid ""
+"If you are in need of support, or if you want to make a suggestion, please "
+"visit the plugin's"
+msgstr ""
+"Hvis du trenger hjelp, eller ønsker å foreslå noe, besøk utvidelsen sin"
+
+#: inc/pages/support.php:37
+msgid "Wordpress page"
+msgstr "Wordpress-side"
+
+#: reach-me.php:56
+msgid "Settings"
+msgstr "Innstillinger"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/leanderiversen/reach-me"
+msgstr "https://github.com/leanderiversen/reach-me"
+
+#. Author of the plugin/theme
+msgid "Iversen - Carpe Noctem"
+msgstr "Iversen - Carpe Noctem"
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/leanderiversen"
+msgstr "https://github.com/leanderiversen"
